@@ -34,7 +34,6 @@ Once you have all of your PiShock Shockers paired to you PiShock Hub, it's basic
 
 <img width="349" height="312" alt="image" src="https://github.com/user-attachments/assets/ce49b6e6-a625-4261-aecf-c863ef65c1f6" />
 
-
 Before playing, you have to do a one time calibration. On the GUI, you'll see two yellow buttons for calibration "Calibrate Left" and "Calibrate Right". Click on the calibration buttons and drag the corners of the yellow box overlay to where on the screen "Punish" and Counter" will be written on your screen. Try to make the box as small possible, but still encompass both text areas for "Punish" and "Counter". Be sure to do it for both sides. There is a preview that you can enable with a checkbox that may help you with the calibration process to check if you placed it in the correct position. If you calibrated the sides correctly, the image in the preview should encapsulate both "Punish" and "Counter" words on the screen. After you're done calibrating, turn off the preview to save resources. 
 
 <img width="426" height="479" alt="image" src="https://github.com/user-attachments/assets/697ceaec-ed4c-49e9-b98d-ab81c093c389" />
@@ -45,6 +44,6 @@ Once you have both sides calibrated and the correct resolution, adjust your play
 
 Once everything is to your preferences, press the "START" button. When this button is pressed, all of your shockers should beep. If they didn't beep, they might not be connected. In that case, try to restart them with the power button. 
 
-At this point, you should be good to go. Play the game and see if it works.
+At this point, you should be good to go. Strap those shockers onto your arms. The best place to put them are the forearm. Triggering muscles in this area will make your fingers contract and further immerse you in direct haptics to your inputs. Now boot up ranked and see this program work wonders for your defense. 
 
 
